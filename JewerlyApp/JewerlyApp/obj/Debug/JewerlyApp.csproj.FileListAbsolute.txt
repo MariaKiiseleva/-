@@ -1,0 +1,11 @@
+D:\Users\Мария\source\repos\JewerlyApp\JewerlyApp\obj\Debug\JewerlyApp.csproj.AssemblyReference.cache
+D:\Users\Мария\source\repos\JewerlyApp\JewerlyApp\obj\Debug\JewerlyApp.Form1.resources
+D:\Users\Мария\source\repos\JewerlyApp\JewerlyApp\obj\Debug\JewerlyApp.Properties.Resources.resources
+D:\Users\Мария\source\repos\JewerlyApp\JewerlyApp\obj\Debug\JewerlyApp.csproj.GenerateResource.cache
+D:\Users\Мария\source\repos\JewerlyApp\JewerlyApp\obj\Debug\JewerlyApp.csproj.CoreCompileInputs.cache
+D:\Users\Мария\source\repos\JewerlyApp\JewerlyApp\bin\Debug\JewerlyApp.exe.config
+D:\Users\Мария\source\repos\JewerlyApp\JewerlyApp\bin\Debug\JewerlyApp.exe
+D:\Users\Мария\source\repos\JewerlyApp\JewerlyApp\bin\Debug\JewerlyApp.pdb
+D:\Users\Мария\source\repos\JewerlyApp\JewerlyApp\obj\Debug\JewerlyApp.exe
+D:\Users\Мария\source\repos\JewerlyApp\JewerlyApp\obj\Debug\JewerlyApp.pdb
+D:\Users\Мария\source\repos\JewerlyApp\JewerlyApp\obj\Debug\JewerlyApp.Form2.resources
